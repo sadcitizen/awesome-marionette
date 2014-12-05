@@ -39,6 +39,7 @@
 - [Structuring Backbone Code with RequireJS and Marionette Modules](https://leanpub.com/structuring-backbone-with-requirejs-and-marionette) by David Sulc
 - [Marionette Exposé](https://leanpub.com/marionetteexpose) by Jack Killilea
 - [Backbone.Marionette.js: A Serious Progression](https://leanpub.com/marionette-serious-progression) by David Sulc
+- [Getting Started with Backbone Marionette](http://www.amazon.com/dp/1783284250/) by Raymundo Armendariz and Arturo Soto
 
 ## Videos
 
