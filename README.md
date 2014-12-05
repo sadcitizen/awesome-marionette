@@ -31,6 +31,9 @@
 - Strengthening Our Backbone With Marionette by Stephen Kao - [Part 1](http://tech.kinja.com/strengthening-our-backbone-with-marionette-part-i-1583630931)
 - [Tutorial: Nested views using Backbone Marionette’s CompositeView](http://davidsulc.com/blog/2013/02/03/tutorial-nested-views-using-backbone-marionettes-compositeview/) bu David Sulc
 - [Components with Backbone.js and Marionette.js](http://blog.jeremyfairbank.com/javascript/components-with-backbone-js-and-marionette-js/) by Jeremy Fairbank
+- [Managing Layouts And Nested Views With Backbone.Marionette](http://lostechies.com/derickbailey/2012/03/22/managing-layouts-and-nested-views-with-backbone-marionette/) by Derick Bailey
+- [Revisiting The Backbone Event Aggregator: Lessons Learned](http://lostechies.com/derickbailey/2012/04/03/revisiting-the-backbone-event-aggregator-lessons-learned/) by Derick Bailey
+- [Why Should I Use Backbone.Marionette Instead Of … ?](http://lostechies.com/derickbailey/2012/06/13/why-should-i-use-backbone-marionette-instead-of-%E2%80%A6/) by Derick Bailey
 
 ## Books
 
