@@ -1,4 +1,4 @@
-# Awesome Backbone.js
+# Awesome Marionette.js
 
 > A list of resources for marionette.js
 
