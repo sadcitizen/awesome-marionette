@@ -19,6 +19,14 @@
 - [The Case For Marionette.js](http://benmccormick.org/2014/12/02/the-case-for-marionette-js/) by Ben McCormick
 - [From Backbone.js to Marionette.js (Russian)](http://habrahabr.ru/post/207730/) - by Mahnunchik
 - Marionette.js Behaviors by Al Scott and Jeanette Head - [Part 1](http://spin.atomicobject.com/2014/09/11/marionette-behaviors-overview/) and [Part 2](http://spin.atomicobject.com/2014/09/12/testing-marionette-js-behaviors/)
+- [Things I Learned from Building a Large Scale Backbone + Marionette Application](http://authenticff.com/journal/building-large-scale-backbone-marionette-applications) by Ian Williams
+- [Design rules in a Backbone-Marionette App](http://cloudandcode.tumblr.com/post/98671637921/design-rules-in-a-backbone-marionette-app)
+- [A Short Primer on Marionette.js](http://cloudandcode.tumblr.com/post/98265035816/a-short-primer-on-marionette-js)
+- [Pimping Backbone with Marionette](http://scm.io/blog/hack/2014/09/backbone-marionette/) by Tom Herold
+- [Handling Forms with Marionette.js](http://spin.atomicobject.com/2013/11/25/forms-marionette-js-backbone/) by Al Scott
+- [Nested Views in Backbone.Marionette](http://blog.mojotech.com/nested-views-in-backbone-marionette/) by Sam Saccone
+- [DRY up your Views in Backbone Marionette](http://blog.mojotech.com/dry-up-your-views-in-backbone-marionette/) by Sam Saccone
+- Strengthening Our Backbone With Marionette by Stephen Kao - [Part 1](http://tech.kinja.com/strengthening-our-backbone-with-marionette-part-i-1583630931)
 
 ## Books
 
@@ -43,4 +51,5 @@
 
 - [Marionette Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate)
 - [Marionette Contact Manager](https://github.com/dmytroyarmak/marionette-contact-manager) - Continuation of development [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) but using Marionette.js
-- [Marionette, Require, and Gulp.js Boilerplate](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off [Marionette Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate), with Gulp.js integration instead of Grunt.js.
+- [Marionette, Require, and Gulp.js Boilerplate](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off [Marionette Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate), with Gulp.js integration instead of Grunt.js
+- [MarionetteJS + RequireJS + Twitter Bootstrap](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
