@@ -9,6 +9,7 @@
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://marionettejs.github.io/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
+- [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette)
 
 ## Tutorials and articles
 
@@ -16,6 +17,7 @@
 - A simple Backbone.Marionette tutorial by David Sulc - [Part 1](http://davidsulc.com/blog/2012/04/15/a-simple-backbone-marionette-tutorial/) and [Part 2](http://davidsulc.com/blog/2012/04/22/a-simple-backbone-marionette-tutorial-part-2/)
 - Tutorial: a full Backbone.Marionette application by David Sulc - [Part 1](http://davidsulc.com/blog/2012/05/06/tutorial-a-full-backbone-marionette-application-part-1/) and [Part 2](http://davidsulc.com/blog/2012/05/13/tutorial-a-full-backbone-marionette-application-part-2/)
 - [A Visual Guide to Marionette.js Views](http://www.artandlogic.com/blog/2013/03/a-visual-guide-to-marionette-js-views/) by Matt Bajoras
+- [Representing Marionette.js Views with State](http://www.artandlogic.com/blog/2013/06/representing-marionette-js-views-with-state/) by Matt Bajoras
 - [The Case For Marionette.js](http://benmccormick.org/2014/12/02/the-case-for-marionette-js/) by Ben McCormick
 - [From Backbone.js to Marionette.js (Russian)](http://habrahabr.ru/post/207730/) - by Mahnunchik
 - Marionette.js Behaviors by Al Scott and Jeanette Head - [Part 1](http://spin.atomicobject.com/2014/09/11/marionette-behaviors-overview/) and [Part 2](http://spin.atomicobject.com/2014/09/12/testing-marionette-js-behaviors/)
@@ -27,6 +29,8 @@
 - [Nested Views in Backbone.Marionette](http://blog.mojotech.com/nested-views-in-backbone-marionette/) by Sam Saccone
 - [DRY up your Views in Backbone Marionette](http://blog.mojotech.com/dry-up-your-views-in-backbone-marionette/) by Sam Saccone
 - Strengthening Our Backbone With Marionette by Stephen Kao - [Part 1](http://tech.kinja.com/strengthening-our-backbone-with-marionette-part-i-1583630931)
+- [Tutorial: Nested views using Backbone Marionette’s CompositeView](http://davidsulc.com/blog/2013/02/03/tutorial-nested-views-using-backbone-marionettes-compositeview/) bu David Sulc
+- [Components with Backbone.js and Marionette.js](http://blog.jeremyfairbank.com/javascript/components-with-backbone-js-and-marionette-js/) by Jeremy Fairbank
 
 ## Books
 
@@ -45,7 +49,7 @@
 - [Backbone Marionette and Require.js](https://www.youtube.com/watch?v=4K4JKtAGPu4) by Daniel Cousineau
 - [Building modular and component driven architecture in Backbone.js and Marionette.js](https://www.youtube.com/watch?v=PrQSpdWkN6Q) by Jeremy Fairbank
 - [Backbone's rarely enough: An introduction to Backbone Marionette](https://www.youtube.com/watch?v=fZJMF4SOKm4) by Len Smith
-- [Unsuck Yuor Backbone](http://www.youtube.com/watch?v=0o2whtCJw8I) by Amy Palamountain
+- [Unsuck Your Backbone](http://www.youtube.com/watch?v=0o2whtCJw8I) by Amy Palamountain
 
 ## Examples and boilerplates
 
