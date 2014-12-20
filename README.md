@@ -51,10 +51,9 @@
 - [The tools and patterns for building large-scale Backbone applications](https://www.youtube.com/watch?v=qWr7x9wk6_c) by Brian Mann
 - [Episode 03 of BackboneRails screencast](https://www.youtube.com/watch?v=KT31H3Ayliw) by Brian Mann
 - [Backbone Marionette and Require.js](https://www.youtube.com/watch?v=4K4JKtAGPu4) by Daniel Cousineau
-- [Building modular and component driven architecture in Backbone.js and Marionette.js](https://www.youtube.com/watch?v=PrQSpdWkN6Q) by Jeremy Fairbank
 - [Backbone's rarely enough: An introduction to Backbone Marionette](https://www.youtube.com/watch?v=fZJMF4SOKm4) by Len Smith
 - [Unsuck Your Backbone](http://www.youtube.com/watch?v=0o2whtCJw8I) by Amy Palamountain
-- [Building Modular and Component Driven Architecture in Backbone.js and Marionette.js](https://www.youtube.com/watch?v=PrQSpdWkN6Q) by Jeremy Fairbank
+- [Building Modular and Component Driven Architecture in Backbone.js and Marionette.js](https://www.youtube.com/watch?v=PrQSpdWkN6Q) by Jeremy Fairbank [Slides](http://presentboldly.com/jfairbank/modular-and-component-driven-architecture-in-marionettejs/)
 
 ## Examples and boilerplates
 
