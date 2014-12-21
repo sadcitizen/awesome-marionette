@@ -54,6 +54,7 @@
 - [Backbone's rarely enough: An introduction to Backbone Marionette](https://www.youtube.com/watch?v=fZJMF4SOKm4) by Len Smith
 - [Unsuck Your Backbone](http://www.youtube.com/watch?v=0o2whtCJw8I) by Amy Palamountain
 - [Building Modular and Component Driven Architecture in Backbone.js and Marionette.js](https://www.youtube.com/watch?v=PrQSpdWkN6Q) by Jeremy Fairbank [Slides](http://presentboldly.com/jfairbank/modular-and-component-driven-architecture-in-marionettejs/)
+- [Marionette: The Backbone Framework from BackboneConf 2014](https://www.youtube.com/watch?v=EvQnntaqVdE&index=13&list=PLlgxAbM67lYIGw8DnANC7VgREbzJRQged) by James Smith
 
 ## Examples and boilerplates
 
