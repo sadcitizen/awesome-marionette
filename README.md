@@ -18,7 +18,10 @@
 - Tutorial: a full Backbone.Marionette application by David Sulc - [Part 1](http://davidsulc.com/blog/2012/05/06/tutorial-a-full-backbone-marionette-application-part-1/) and [Part 2](http://davidsulc.com/blog/2012/05/13/tutorial-a-full-backbone-marionette-application-part-2/)
 - [A Visual Guide to Marionette.js Views](http://www.artandlogic.com/blog/2013/03/a-visual-guide-to-marionette-js-views/) by Matt Bajoras
 - [Representing Marionette.js Views with State](http://www.artandlogic.com/blog/2013/06/representing-marionette-js-views-with-state/) by Matt Bajoras
-- [The Case For Marionette.js](http://benmccormick.org/2014/12/02/the-case-for-marionette-js/) by Ben McCormick
+- Marionette Explained by Ben McCormick
+  - [The Case For Marionette.js](http://benmccormick.org/2014/12/02/the-case-for-marionette-js/)
+  - [Connecting Data to Your Views](http://benmccormick.org/2014/12/10/marionette-explained-connecting-your-data-to-your-views/)
+  - [Building Complex Layouts With Marionette.js](http://benmccormick.org/2014/12/22/building-complex-layouts-with-marionette-js/)
 - [From Backbone.js to Marionette.js (Russian)](http://habrahabr.ru/post/207730/) - by Mahnunchik
 - Marionette.js Behaviors by Al Scott and Jeanette Head - [Part 1](http://spin.atomicobject.com/2014/09/11/marionette-behaviors-overview/) and [Part 2](http://spin.atomicobject.com/2014/09/12/testing-marionette-js-behaviors/)
 - [Things I Learned from Building a Large Scale Backbone + Marionette Application](http://authenticff.com/journal/building-large-scale-backbone-marionette-applications) by Ian Williams
