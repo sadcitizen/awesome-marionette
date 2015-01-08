@@ -22,6 +22,7 @@
   - [The Case For Marionette.js](http://benmccormick.org/2014/12/02/the-case-for-marionette-js/)
   - [Connecting Data to Your Views](http://benmccormick.org/2014/12/10/marionette-explained-connecting-your-data-to-your-views/)
   - [Building Complex Layouts With Marionette.js](http://benmccormick.org/2014/12/22/building-complex-layouts-with-marionette-js/)
+  - [The Life of a Marionette View](http://benmccormick.org/2015/01/05/marionette-view-life-cycles/)
 - [From Backbone.js to Marionette.js (Russian)](http://habrahabr.ru/post/207730/) - by Mahnunchik
 - Marionette.js Behaviors by Al Scott and Jeanette Head - [Part 1](http://spin.atomicobject.com/2014/09/11/marionette-behaviors-overview/) and [Part 2](http://spin.atomicobject.com/2014/09/12/testing-marionette-js-behaviors/)
 - [Things I Learned from Building a Large Scale Backbone + Marionette Application](http://authenticff.com/journal/building-large-scale-backbone-marionette-applications) by Ian Williams
