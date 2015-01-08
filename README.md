@@ -38,6 +38,7 @@
 - [Managing Layouts And Nested Views With Backbone.Marionette](http://lostechies.com/derickbailey/2012/03/22/managing-layouts-and-nested-views-with-backbone-marionette/) by Derick Bailey
 - [Revisiting The Backbone Event Aggregator: Lessons Learned](http://lostechies.com/derickbailey/2012/04/03/revisiting-the-backbone-event-aggregator-lessons-learned/) by Derick Bailey
 - [Why Should I Use Backbone.Marionette Instead Of … ?](http://lostechies.com/derickbailey/2012/06/13/why-should-i-use-backbone-marionette-instead-of-%E2%80%A6/) by Derick Bailey
+- [Polymer Web Components with Marionette.js](http://blog.jeremyfairbank.com/javascript/polymer-web-components-with-marionette-js/) by Jeremy Fairbank
 
 ## Books
 
