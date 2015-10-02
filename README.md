@@ -7,7 +7,7 @@
 - [Marionette.js](http://marionettejs.com/)
 - [Github repository](https://github.com/marionettejs/backbone.marionette)
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
-- [Marionette.js Blog](http://marionettejs.github.io/)
+- [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
 - [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette)
 
