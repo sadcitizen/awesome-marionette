@@ -42,6 +42,7 @@
 - [Polymer Web Components with Marionette.js](http://blog.jeremyfairbank.com/javascript/polymer-web-components-with-marionette-js/) by Jeremy Fairbank
 - [Building A Marionette App with Flux Architecture](http://iamnotarealprogrammer.com/flux-architecture-in-a-backbone-and-marionette-app/) by Kurtis Kemple
 - [marionette-service: Service Objects for Marionette](http://benmccormick.org/2015/05/25/marionette-service-service-objects-for-marionette/) by Ben McCormick
+- [Refactoring a JavaScript Application to Use Microservices: What we Learned With Backbone and Marionette](https://www.safaribooksonline.com/blog/2015/11/24/refactoring-javascript-microservice-backbone-marionette/) by Pasha Craydon 
 
 ## Books
 
