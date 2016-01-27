@@ -9,7 +9,10 @@
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
+- [Gitter chat](https://gitter.im/marionettejs/backbone.marionette)
+- [Marionette Inspector](https://github.com/marionettejs/marionette.inspector)
 - [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette)
+- [Marionette CLI](https://github.com/denar90/marionette-cli)
 
 ## Tutorials and articles
 
@@ -52,6 +55,8 @@
 - [Marionette Exposé](https://leanpub.com/marionetteexpose) by Jack Killilea
 - [Backbone.Marionette.js: A Serious Progression](https://leanpub.com/marionette-serious-progression) by David Sulc
 - [Getting Started with Backbone Marionette](http://www.amazon.com/dp/1783284250/) by Raymundo Armendariz and Arturo Soto
+- [Marionette guides](https://www.gitbook.com/book/marionette/marionette-guides/details)
+
 
 ## Videos
 
@@ -71,3 +76,12 @@
 - [Marionette Contact Manager](https://github.com/dmytroyarmak/marionette-contact-manager) - Continuation of development [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) but using Marionette.js
 - [Marionette, Require, and Gulp.js Boilerplate](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off [Marionette Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate), with Gulp.js integration instead of Grunt.js
 - [MarionetteJS + RequireJS + Twitter Bootstrap](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
+- [Marionette gentle introduction](https://github.com/davidsulc/marionette-gentle-introduction)
+- [Marionette wires](https://github.com/thejameskyle/marionette-wires)
+- [Marionette cookbook](https://github.com/MarionetteLabs/marionette-cookbook)
+
+## Libraries
+
+- [Marionette state](https://github.com/Squareknot/marionette.state)
+- [Marionette virtual dom](https://github.com/tiagorg/marionette-vdom)
+- [Marionette Form View](https://github.com/viverae/marionette.formview)
