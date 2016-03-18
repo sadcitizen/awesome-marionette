@@ -13,6 +13,7 @@
 - [Marionette Inspector](https://github.com/marionettejs/marionette.inspector)
 - [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette)
 - [Marionette CLI](https://github.com/denar90/marionette-cli)
+- [MarionetteJS CLI package for atom](https://atom.io/packages/atom-marionettejs-cli)
 
 ## Tutorials and articles
 
