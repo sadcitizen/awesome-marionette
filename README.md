@@ -80,6 +80,7 @@
 - [Marionette gentle introduction](https://github.com/davidsulc/marionette-gentle-introduction)
 - [Marionette wires](https://github.com/thejameskyle/marionette-wires)
 - [Marionette cookbook](https://github.com/MarionetteLabs/marionette-cookbook)
+- [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs)
 
 ## Libraries
 
