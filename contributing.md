@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 - If you own a Marionette.js resource listed here, a link back to this list
   would be appreciated, so that users can find more related resources.
 - Make an individual pull request for each suggestion.
-- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html). Use [title-casing](http://titlecapitalization.com/) (AP style).
 - Use the following format: `[List Name](link)`
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
