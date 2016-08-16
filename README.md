@@ -96,6 +96,7 @@
 - [Streamus](https://github.com/MeoMix/StreamusChromeExtension)
 - [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette)
+- [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
 
 ## Libraries
 
@@ -104,3 +105,4 @@
 - [Marionette Form View](https://github.com/viverae/marionette.formview)
 - [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer)
 - [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
+- [Framework Wrapper For Marionette](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework
