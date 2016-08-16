@@ -105,4 +105,4 @@
 - [Marionette Form View](https://github.com/viverae/marionette.formview)
 - [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer)
 - [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
-- [Framework Wrapper For Marionette](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework
+- [Orchestra](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework
