@@ -49,6 +49,7 @@
 - [Building a Marionette App with Flux Architecture](http://iamnotarealprogrammer.com/flux-architecture-in-a-backbone-and-marionette-app/) by Kurtis Kemple
 - [Marionette-Service: Service Objects for Marionette](http://benmccormick.org/2015/05/25/marionette-service-service-objects-for-marionette/) by Ben McCormick
 - [Refactoring a JavaScript Application to Use Microservices: What We Learned with Backbone and Marionette](https://www.safaribooksonline.com/blog/2015/11/24/refactoring-javascript-microservice-backbone-marionette/) by Pasha Craydon 
+- [SEO-Enabling Your Marionette App](https://docs.google.com/presentation/d/1jy9SXyr6ZjbY7lOSKN8QraH96-vR7mnAo0ePvzDb8uc/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 ## Books
 
@@ -80,6 +81,7 @@
 - [Browserify + Marionette = Better Apps](https://www.youtube.com/watch?v=7bGWuyuLK_4)
 - [Using DevTools for Marionette Debugging](https://www.youtube.com/watch?v=75d0odmbu38)
 - [Routing Made Better](https://www.youtube.com/watch?v=F32QhaHFn1k)
+- [View and Application State](https://www.youtube.com/watch?v=FCUS6RrhRtI)
 
 ## Examples and boilerplates
 
