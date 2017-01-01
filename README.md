@@ -99,6 +99,8 @@
 - [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette)
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
+- [Webpack-Marionette](https://github.com/alexpsi/webpack-marionette) A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.
+
 
 ## Libraries
 
